@@ -9,11 +9,8 @@ Soy de **Comitán, Chiapas, México**, y me especializo en el desarrollo de apli
 ---
 
 ## 💻 Tecnologías  
-
- ![image](https://github.com/user-attachments/assets/9b2bfa44-25d4-4f66-a2bc-72349744710e)
- ![image](https://github.com/user-attachments/assets/ce3b3a00-f7ff-4a9d-8de3-c30a91cc2cd3) 
- ![image](https://github.com/user-attachments/assets/20b0652f-1aff-4284-b1db-8e2ad222d4f7)
  
+
 
 
 
