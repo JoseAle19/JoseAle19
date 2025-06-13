@@ -1,4 +1,4 @@
-# 👋 Hola, soy José Alejandro Cruz Pérez  
+# 👋 Hola, soy José Alejandro Cruz Pérez Ing. Sistemas Computacionales
 **Desarrollador FullStack** apasionado por crear soluciones digitales eficientes y escalables.
 
 ---
@@ -10,9 +10,10 @@ Soy de **Comitán, Chiapas, México**, y me especializo en el desarrollo de apli
 
 ## 💻 Tecnologías  
 
-![Flutter](image-flutter) ![Laravel](image-laravel) ![React](image-react) ![Angular](image-angular)  
-![Node.js](image-node) ![WordPress](image-wordpress) ![JavaScript](image-js) ![TypeScript](image-ts)  
-![Dart](image-dart) ![Python](image-python) ![PHP](image-php)  
+ ![image](https://github.com/user-attachments/assets/9b2bfa44-25d4-4f66-a2bc-72349744710e)
+ ![image](https://github.com/user-attachments/assets/ce3b3a00-f7ff-4a9d-8de3-c30a91cc2cd3) 
+ 
+
 
 ---
 
@@ -34,9 +35,11 @@ Soy de **Comitán, Chiapas, México**, y me especializo en el desarrollo de apli
 ---
 
 ## 📜 Certificaciones  
-- **Flutter (Google Certified)**  
-- **Node.js (Advanced Concepts)**  
-- **JavaScript Moderno (ES6+)**  
+- **Flutter (devtalles)**
+- **Flutter + Gemini**  
+- **Node.js (Advanced)**  
+- **JavaScript Moderno (ES6+)**
+- **Typescript introducción**  
 
 ---
 
