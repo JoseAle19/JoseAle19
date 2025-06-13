@@ -9,7 +9,6 @@ Soy de **Comitán, Chiapas, México**, y me especializo en el desarrollo de apli
 ---
 
 ## 💻 Tecnologías  
- ## 💻 Tecnologías  
 
 <p align="left">
   <!-- Frontend / Móvil -->
